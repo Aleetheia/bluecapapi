@@ -1,0 +1,5 @@
+Flask==0.12.2
+pandas==0.20.1
+gunicorn==19.7.1
+Flask-MySQL==1.4.0
+Flask-MySQLdb==0.2.0
